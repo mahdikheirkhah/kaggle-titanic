@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "/Users/mohammad.kheirkhah/Desktop/kaggle-titanic/ex00/bin/python",
+    "jupyter.jupyterServerType": "local",
+    "jupyter.notebookEditor.defaultKernel": ".jupyter/kernels/ex00",
+    "python.terminal.activateEnvInSelectedTerminal": true,
+    "jupyter.jupyterServerEndpoint": "http://localhost:8891/?token=fb546714cbd0ed10b0b9c10abae2c4805e1f1dac1e01aacd"
+}
